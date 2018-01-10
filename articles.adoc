@@ -1,0 +1,4 @@
+
+* Martin Kleppmann presentation of difference Sequential Consistency versus Linearizability. +
+  The talk is summary of research paper "Sequential consistency versus linearizability" by H. Attiya and J.L. Welch +
+  https://www.youtube.com/watch?v=D5iCl12MuRw
