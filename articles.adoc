@@ -2,3 +2,5 @@
 * Martin Kleppmann presentation of difference Sequential Consistency versus Linearizability. +
   The talk is summary of research paper "Sequential consistency versus linearizability" by H. Attiya and J.L. Welch +
   https://www.youtube.com/watch?v=D5iCl12MuRw
+* https://github.com/rystsov/perseus by Denis Rystsov, set of scripts to investigate a distributed database's responsiveness
+  when one of its three nodes is isolated from the peers
