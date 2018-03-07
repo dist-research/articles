@@ -23,5 +23,5 @@ https://github.com/rystsov/perseus::
 http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data::
   blog post about microservice architecture, event sourcing [#kafka, #debezium, #cqrs, #msa]
 https://kafemlejnek.tv/dil-6-nastupujici-architektury-web-aplikaci, https://kafemlejnek.tv/dil-7-kafka-samza-druid-io::
-  kafemlejnek.tv interview about cqrs, kafka, samza, druid.io [#msa] (CZ)
+  kafemlejnek.tv interview about cqrs, kafka, samza, druid.io [#msa] (lang CZ)
   
