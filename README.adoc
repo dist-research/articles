@@ -1,6 +1,6 @@
 = Resources to check
 
-List of resources related to distributed systems and more...
+List of resources related to distributed systems and more... ;)
 
 == Sessions
 
