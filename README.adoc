@@ -24,4 +24,6 @@ http://blog.christianposta.com/microservices/the-hardest-part-about-microservice
   blog post about microservice architecture, event sourcing [#kafka, #debezium, #cqrs, #msa]
 https://kafemlejnek.tv/dil-6-nastupujici-architektury-web-aplikaci, https://kafemlejnek.tv/dil-7-kafka-samza-druid-io::
   kafemlejnek.tv interview about cqrs, kafka, samza, druid.io [#msa] (CZ)
-  
+http://www.javamagazine.mozaicreader.com/JanFeb2018/Twitter/69/0/3922765#&pageSet=69&page=0&contentItem=3922765::
+  Java Magazine Jan/Feb 2018, CQRS with Java EE [#javaee, #cqrs, #msa] (note about Kafka version 0.11 and transactional producers,
+  see https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging)
