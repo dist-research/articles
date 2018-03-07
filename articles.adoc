@@ -1,6 +1,24 @@
+= Resources to check
 
-* Martin Kleppmann presentation of difference Sequential Consistency versus Linearizability. +
+List of resources related to distributed systems and more...
+
+== Sessions
+
+=== Paxos
+
+* https://github.com/dgryski/awesome-consensus : nice summary of paxos articles
+* http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf : Paxos made simple, Lamport
+* https://www.youtube.com/watch?v=JEpsBg0AO6o : nice youtube video of showing how paxos works
+
+* https://arxiv.org/abs/1802.07000 : CASPaxos, Ritsov
+
+== Disttributed system articles
+
+https://www.youtube.com/watch?v=D5iCl12MuRw::
+  Martin Kleppmann presentation of difference Sequential Consistency versus Linearizability. +
   The talk is summary of research paper "Sequential consistency versus linearizability" by H. Attiya and J.L. Welch +
-  https://www.youtube.com/watch?v=D5iCl12MuRw
-* https://github.com/rystsov/perseus by Denis Rystsov, set of scripts to investigate a distributed database's responsiveness
+https://github.com/rystsov/perseus::
+  by Denis Rystsov, set of scripts to investigate a distributed database's responsiveness
   when one of its three nodes is isolated from the peers
+http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data::
+  blog post about microservice architecture, event sourcing [#kafka, #debezium, #cqrs]
