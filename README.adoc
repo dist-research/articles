@@ -12,7 +12,7 @@ List of resources related to distributed systems and more... ;)
 
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Ritsov
 
-== Disttributed system articles
+== Disttributed system resources
 
 https://www.youtube.com/watch?v=D5iCl12MuRw::
   Martin Kleppmann presentation of difference Sequential Consistency versus Linearizability. +
@@ -28,3 +28,7 @@ http://www.javamagazine.mozaicreader.com/JanFeb2018/Twitter/69/0/3922765#&pageSe
   Java Magazine Jan/Feb 2018, CQRS with Java EE [#javaee, #cqrs, #msa] (note about Kafka version 0.11 and transactional producers,
   see https://cwiki.apache.org/confluence/display/KAFKA/KIP-98+-+Exactly+Once+Delivery+and+Transactional+Messaging,
   https://cwiki.apache.org/confluence/display/KAFKA/KIP-129%3A+Streams+Exactly-Once+Semantics)
+https://youtu.be/yC6b0709HCw::
+  What we talk about when we talk about Distributed Systems, presentation by Alvaro Videla (RabbitMQ),
+  talk on basic terms and how they bind together
+
