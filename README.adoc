@@ -31,4 +31,6 @@ http://www.javamagazine.mozaicreader.com/JanFeb2018/Twitter/69/0/3922765#&pageSe
 https://youtu.be/yC6b0709HCw::
   What we talk about when we talk about Distributed Systems, presentation by Alvaro Videla (RabbitMQ),
   talk on basic terms and how they bind together
+https://disco.ethz.ch/courses/podc_allstars::
+  Principles of Distributed Computing (lecture collection) from ETH Zurich
 
