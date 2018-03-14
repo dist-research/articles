@@ -4,12 +4,37 @@ List of resources related to distributed systems and more... ;)
 
 == Sessions
 
+=== Spanner
+
+* https://research.google.com/pubs/pub45855.html : Spanner, TrueTime and the CAP Theorem
+* https://www.cockroachlabs.com/blog/living-without-atomic-clocks : Living Without Atomic Clocks
+
+=== Raft
+
+* https://raft.github.io/raft.pdf : In Search of an Understandable Consensus Algorithm
+
+=== Transaction isolation (ACID vs. CAP)
+
+* http://www.bailis.org/blog/linearizability-versus-serializability : Linearizability versus Serializability
+* http://pmg.csail.mit.edu/papers/adya-phd.pdf : Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions (Atul Adya)
+* https://arxiv.org/pdf/1302.0309.pdf : highly available transactions: virtues and limitations
+* https://www.youtube.com/watch?v=5ZjhNTM8XU8 : "Transactions: myths, surprises and opportunities" (Martin Kleppmann)
+* https://hal.inria.fr/file/index/docid/555588/filename/techreport.pdf : A comprehensive study of Convergent and Commutative Replicated Data Types
+* http://www.se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts : SE-Radio Episode 252: Christopher Meiklejohn on CRDTs
+* http://www.cs.princeton.edu/~wlloyd/papers/challenges-hotos15.pdf : Challenges to Adopting Stronger Consistency at Scale
+
+=== Blockchain
+
+* https://bitcoin.org/bitcoin.pdf : Bitcoin: A Peer-to-Peer Electronic Cash System
+* https://www.stellar.org/papers/stellar-consensus-protocol.pdf : The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus
+* http://www.se-radio.net/2017/07/se-radio-episode-297-kieren-james-lubin-on-blockchain/ : SE-Radio Episode 297: Kieren James-Lubin on Blockchain
+* https://eng.paxos.com/why-arent-distributed-systems-engineers-working-on-blockchain-technology : Why aren’t distributed systems engineers working on blockchain technology?
+
 === Paxos
 
 * https://github.com/dgryski/awesome-consensus : nice summary of paxos articles
 * http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf : Paxos made simple, Lamport
 * https://www.youtube.com/watch?v=JEpsBg0AO6o : nice youtube video of showing how paxos works
-
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Ritsov
 
 == Disttributed system resources
@@ -33,4 +58,6 @@ https://youtu.be/yC6b0709HCw::
   talk on basic terms and how they bind together
 https://disco.ethz.ch/courses/podc_allstars::
   Principles of Distributed Computing (lecture collection) from ETH Zurich
+https://github.com/dist-research/articles::
+  Cohesive list of articles and papers on distributed systems (Paxos, Raft...)
 
