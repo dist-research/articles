@@ -58,6 +58,4 @@ https://youtu.be/yC6b0709HCw::
   talk on basic terms and how they bind together
 https://disco.ethz.ch/courses/podc_allstars::
   Principles of Distributed Computing (lecture collection) from ETH Zurich
-https://github.com/dist-research/articles::
-  Cohesive list of articles and papers on distributed systems (Paxos, Raft...)
 
