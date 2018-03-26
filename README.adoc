@@ -35,7 +35,7 @@ List of resources related to distributed systems and more... ;)
 * https://github.com/dgryski/awesome-consensus : nice summary of paxos articles
 * http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf : Paxos made simple, Lamport
 * https://www.youtube.com/watch?v=JEpsBg0AO6o : nice youtube video of showing how paxos works
-* https://arxiv.org/abs/1802.07000 : CASPaxos, Ritsov
+* https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
 
 == Disttributed system resources
 
