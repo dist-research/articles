@@ -37,6 +37,7 @@ List of resources related to distributed systems and more... ;)
 * http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf : Paxos made simple, Lamport
 * https://www.youtube.com/watch?v=JEpsBg0AO6o : nice youtube video of showing how paxos works
 * https://www.youtube.com/watch?v=XUQJvMALfUA : presentation to recap of consensus protocols (JOTB16, Heidi Howard)
+* http://hh360.user.srcf.net/blog/2016/08/majority-agreement-is-not-necessary : majority agreement isn’t required by Paxos, blogpost by Heidi Howard
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
 
 == Disttributed system resources
