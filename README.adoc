@@ -41,6 +41,10 @@ List of resources related to distributed systems and more... ;)
 * http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf :  Paxos made moderately complex, R.Van Renesse, D. Altinbuken
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
 
+=== Atomic Commit Protocol
+
+* http://webee.technion.ac.il/~idish/Abstracts/jcss.html : E3PC, atomic commit if majority/quorum of nodes stays up
+
 == Disttributed system resources
 
 https://www.youtube.com/watch?v=D5iCl12MuRw::
