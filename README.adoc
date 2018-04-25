@@ -42,9 +42,10 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
 * https://arxiv.org/abs/1608.05866: AllConcur: Leaderless Concurrent Atomic Broadcast, Marius Poke, Torsten Hoefler, Colin W. Glass
 
-=== Atomic Commit Protocol
+=== Atomic Broadcast/Commit Protocol
 
 * http://webee.technion.ac.il/~idish/Abstracts/jcss.html : E3PC, atomic commit if majority/quorum of nodes stays up
+* https://arxiv.org/pdf/1608.05866.pdf : AllConcur, leaderless atomic broadcast
 
 == Disttributed system resources
 
@@ -69,4 +70,5 @@ https://disco.ethz.ch/courses/podc_allstars::
   Principles of Distributed Computing (lecture collection) from ETH Zurich
 https://softwareengineeringdaily.com/2017/12/11/scalable-multiplayer-games-with-yan-cui, https://www.youtube.com/watch?v=t66QDZ7LL5Y&t=10m50s::
   Lockstep in multiplayer games. Podcast on multiplayer games and Kafemlejnek.tv about Factorio
+* http://www.gamasutra.com/view/feature/3094/1500_archers_on_a_288_network_.php?print=1%7C1500: Lockstep in Age of Empires
 
