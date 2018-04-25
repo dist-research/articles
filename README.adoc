@@ -31,7 +31,7 @@ List of resources related to distributed systems and more... ;)
 * https://eng.paxos.com/why-arent-distributed-systems-engineers-working-on-blockchain-technology : Why aren’t distributed systems engineers working on blockchain technology?
 * https://www.softwaredaily.com/post/5a968be840178500043e947a[Software daily: Bitcoin Transactions], https://www.softwaredaily.com/post/5aa2696a58c5130004d9aa87[Software daily: Proof of Stake], https://www.softwaredaily.com/post/5a9fc652c2b406000499072b[Software daily: Smart Contracts] : podcast series about bitcoin and blockchain, introductory but pretty deep
 
-=== Paxos
+=== Paxos (consensus protocols)
 
 * https://github.com/dgryski/awesome-consensus : nice summary of paxos articles
 * http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf : Paxos made simple, Lamport
@@ -40,6 +40,7 @@ List of resources related to distributed systems and more... ;)
 * http://hh360.user.srcf.net/blog/2016/08/majority-agreement-is-not-necessary : majority agreement isn’t required by Paxos, blogpost by Heidi Howard
 * http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf :  Paxos made moderately complex, R.Van Renesse, D. Altinbuken
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
+* https://arxiv.org/abs/1608.05866: AllConcur: Leaderless Concurrent Atomic Broadcast, Marius Poke, Torsten Hoefler, Colin W. Glass
 
 === Atomic Commit Protocol
 
