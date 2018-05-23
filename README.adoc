@@ -69,5 +69,8 @@ https://disco.ethz.ch/courses/podc_allstars::
   Principles of Distributed Computing (lecture collection) from ETH Zurich
 https://softwareengineeringdaily.com/2017/12/11/scalable-multiplayer-games-with-yan-cui, https://www.youtube.com/watch?v=t66QDZ7LL5Y&t=10m50s::
   Lockstep in multiplayer games. Podcast on multiplayer games and Kafemlejnek.tv about Factorio
-* http://www.gamasutra.com/view/feature/3094/1500_archers_on_a_288_network_.php?print=1%7C1500: Lockstep in Age of Empires
+http://www.gamasutra.com/view/feature/3094/1500_archers_on_a_288_network_.php?print=1%7C1500::
+  Lockstep in Age of Empires
+https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman::
+  Decentralized Objects with Martin Kleppman, Software Engineering Daily podcast
 
