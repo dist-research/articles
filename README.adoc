@@ -40,12 +40,11 @@ List of resources related to distributed systems and more... ;)
 * http://hh360.user.srcf.net/blog/2016/08/majority-agreement-is-not-necessary : majority agreement isn’t required by Paxos, blogpost by Heidi Howard
 * http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf :  Paxos made moderately complex, R.Van Renesse, D. Altinbuken
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
-* https://arxiv.org/abs/1608.05866: AllConcur: Leaderless Concurrent Atomic Broadcast, Marius Poke, Torsten Hoefler, Colin W. Glass
 
 === Atomic Broadcast/Commit Protocol
 
 * http://webee.technion.ac.il/~idish/Abstracts/jcss.html : E3PC, atomic commit if majority/quorum of nodes stays up
-* https://arxiv.org/pdf/1608.05866.pdf : AllConcur, leaderless atomic broadcast
+* https://arxiv.org/pdf/1608.05866.pdf : AllConcur, Leaderless Atomic Broadcast, Marius Poke, Torsten Hoefler, Colin W. Glass
 
 == Disttributed system resources
 
