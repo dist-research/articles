@@ -44,7 +44,11 @@ List of resources related to distributed systems and more... ;)
 === Atomic Broadcast/Commit Protocol
 
 * http://webee.technion.ac.il/~idish/Abstracts/jcss.html : E3PC, atomic commit if majority/quorum of nodes stays up
-* https://arxiv.org/pdf/1608.05866.pdf : AllConcur, Leaderless Atomic Broadcast, Marius Poke, Torsten Hoefler, Colin W. Glass
+* https://arxiv.org/pdf/1608.05866.pdf : AllConcur, Leaderless Atomic Broadcast (Marius Poke, Torsten Hoefler, Colin W. Glass)
+
+=== CRDT
+
+* https://arxiv.org/abs/1805.04263 : OpSets: Sequential Specifications for Replicated Datatypes (Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan, Alastair R. Beresford)
 
 == Disttributed system resources
 
