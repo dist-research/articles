@@ -47,7 +47,8 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/pdf/1608.05866.pdf : AllConcur, Leaderless Atomic Broadcast (Marius Poke, Torsten Hoefler, Colin W. Glass)
 
 === CRDT
-
+* https://arxiv.org/pdf/0907.0929.pdf : CRDTs: Consistency without concurrency control (M. Letia et al., 2009)
+* https://hal.inria.fr/inria-00609399v1/document : Conflict-free Replicated Data Type (Shapiro et al., 2011)
 * https://arxiv.org/abs/1805.04263 : OpSets: Sequential Specifications for Replicated Datatypes (Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan, Alastair R. Beresford)
 
 == Disttributed system resources
