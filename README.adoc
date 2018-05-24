@@ -73,4 +73,8 @@ http://www.gamasutra.com/view/feature/3094/1500_archers_on_a_288_network_.php?pr
   Lockstep in Age of Empires
 https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman::
   Decentralized Objects with Martin Kleppman, Software Engineering Daily podcast
+https://www.softwaredaily.com/post/5afaad94a7d5220004cfd48f/Vitess-Scaling-MySQL-with-Sugu-Sougoumarane::
+  Podcast on scaling MySQL database coming from experience from YouTube
+http://justinjaffray.com/why-consensus::
+  Blogpost on why the consensus algorithms are a good to know and to use
 
