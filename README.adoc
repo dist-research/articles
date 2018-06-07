@@ -20,7 +20,6 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/pdf/1302.0309.pdf : highly available transactions: virtues and limitations
 * https://www.youtube.com/watch?v=5ZjhNTM8XU8 : "Transactions: myths, surprises and opportunities" (Martin Kleppmann)
 * https://hal.inria.fr/file/index/docid/555588/filename/techreport.pdf : A comprehensive study of Convergent and Commutative Replicated Data Types
-* http://www.se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts : SE-Radio Episode 252: Christopher Meiklejohn on CRDTs
 * http://www.cs.princeton.edu/~wlloyd/papers/challenges-hotos15.pdf : Challenges to Adopting Stronger Consistency at Scale
 
 === Blockchain
@@ -50,6 +49,11 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/pdf/0907.0929.pdf : CRDTs: Consistency without concurrency control (M. Letia et al., 2009)
 * https://hal.inria.fr/inria-00609399v1/document : Conflict-free Replicated Data Type (Shapiro et al., 2011)
 * https://arxiv.org/abs/1805.04263 : OpSets: Sequential Specifications for Replicated Datatypes (Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan, Alastair R. Beresford)
+* https://www.microsoft.com/en-us/research/video/strong-eventual-consistency-and-conflict-free-replicated-data-types/ : Strong Eventual Consistency and Conflict-free Replicated Data Types, Marc Shapiro (2011)
+* http://www.se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts : SE-Radio Episode 252: Christopher Meiklejohn on CRDTs (2017)
+* https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman: Decentralized Objects with Martin Kleppman, Software Engineering Daily podcast (2017)
+* https://www.infoq.com/presentations/crdt-distributed-consistency : CRDTs and the Quest for Distributed Consistency, Martin Kleppmann presentation (2018)
+
 
 == Disttributed system resources
 
@@ -76,8 +80,6 @@ https://softwareengineeringdaily.com/2017/12/11/scalable-multiplayer-games-with-
   Lockstep in multiplayer games. Podcast on multiplayer games and Kafemlejnek.tv about Factorio
 http://www.gamasutra.com/view/feature/3094/1500_archers_on_a_288_network_.php?print=1%7C1500::
   Lockstep in Age of Empires
-https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman::
-  Decentralized Objects with Martin Kleppman, Software Engineering Daily podcast
 https://www.softwaredaily.com/post/5afaad94a7d5220004cfd48f/Vitess-Scaling-MySQL-with-Sugu-Sougoumarane::
   Podcast on scaling MySQL database coming from experience from YouTube
 http://justinjaffray.com/why-consensus::
