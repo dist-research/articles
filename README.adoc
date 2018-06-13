@@ -46,13 +46,14 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/pdf/1608.05866.pdf : AllConcur, Leaderless Atomic Broadcast (Marius Poke, Torsten Hoefler, Colin W. Glass)
 
 === CRDT
-* https://arxiv.org/pdf/0907.0929.pdf : CRDTs: Consistency without concurrency control (M. Letia et al., 2009)
-* https://hal.inria.fr/inria-00609399v1/document : Conflict-free Replicated Data Type (Shapiro et al., 2011)
-* https://arxiv.org/abs/1805.04263 : OpSets: Sequential Specifications for Replicated Datatypes (Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan, Alastair R. Beresford)
-* https://www.microsoft.com/en-us/research/video/strong-eventual-consistency-and-conflict-free-replicated-data-types/ : Strong Eventual Consistency and Conflict-free Replicated Data Types, Marc Shapiro (2011)
-* http://www.se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts : SE-Radio Episode 252: Christopher Meiklejohn on CRDTs (2017)
-* https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman: Decentralized Objects with Martin Kleppman, Software Engineering Daily podcast (2017)
-* https://www.infoq.com/presentations/crdt-distributed-consistency : CRDTs and the Quest for Distributed Consistency, Martin Kleppmann presentation (2018)
+* https://hal.inria.fr/inria-00609399v1/document : [paper] Conflict-free Replicated Data Type (Shapiro et al., 2011)
+* https://hal.inria.fr/inria-00555588/document : [paper] A comprehensive study of Convergent and Commutative (Shapiro et al., 2011)
+* https://arxiv.org/pdf/0907.0929.pdf : [paper] CRDTs: Consistency without concurrency control (M. Letia et al., 2009)
+* https://arxiv.org/abs/1805.04263 : [paper] OpSets: Sequential Specifications for Replicated Datatypes (Martin Kleppmann, Victor B. F. Gomes, Dominic P. Mulligan, Alastair R. Beresford)
+* https://www.microsoft.com/en-us/research/video/strong-eventual-consistency-and-conflict-free-replicated-data-types/ : [presentation] Strong Eventual Consistency and Conflict-free Replicated Data Types, Marc Shapiro (2011)
+* http://www.se-radio.net/2016/03/se-radio-episode-252-christopher-meiklejohn-on-crdts : [podcast] SE-Radio Episode 252: Christopher Meiklejohn on CRDTs (2017)
+* https://softwareengineeringdaily.com/2017/12/08/decentralized-objects-with-martin-kleppman: [podcast] Decentralized Objects with Martin Kleppman, Software Engineering Daily podcast (2017)
+* https://www.infoq.com/presentations/crdt-distributed-consistency : [presentation] CRDTs and the Quest for Distributed Consistency, Martin Kleppmann presentation (2018)
 
 
 == Disttributed system resources
