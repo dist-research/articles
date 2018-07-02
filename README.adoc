@@ -85,4 +85,5 @@ https://www.softwaredaily.com/post/5afaad94a7d5220004cfd48f/Vitess-Scaling-MySQL
   Podcast on scaling MySQL database coming from experience from YouTube
 http://justinjaffray.com/why-consensus::
   Blogpost on why the consensus algorithms are a good to know and to use
-
+https://jepsen.io/consistency ::
+  The diagram on consistency models arranged by Jepsen, originally created by P. Bailis in his paper Highly Available Transactions: Virtues and Limitations
