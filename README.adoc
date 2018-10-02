@@ -88,3 +88,5 @@ http://justinjaffray.com/why-consensus::
   Blogpost on why the consensus algorithms are a good to know and to use
 https://jepsen.io/consistency ::
   The diagram on consistency models arranged by Jepsen, originally created by P. Bailis in his paper Highly Available Transactions: Virtues and Limitations
+http://aka.ms/tla ::
+  The TLA+ Video Course by L. Lamport
