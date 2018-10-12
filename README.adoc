@@ -90,3 +90,13 @@ https://jepsen.io/consistency ::
   The diagram on consistency models arranged by Jepsen, originally created by P. Bailis in his paper Highly Available Transactions: Virtues and Limitations
 http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
+
+== Papers in consideration to be read
+
+* M. Castro, B Liskov: Practical Byzantine Fault Tolerance : http://pmg.csail.mit.edu/papers/osdi99.pdf
+* L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM : https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
+* Mike Burrows, Google: The Chubby lock service for loosely-coupled distributed systems : http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf
+* Lamport, Distributed Snapshots: Determining Global States of Distributed Systems : http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
+* Tendermit : https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x
+* Jepsen report on Tendermint : https://jepsen.io/analyses/tendermint-0-10-2
+
