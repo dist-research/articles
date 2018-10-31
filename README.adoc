@@ -47,7 +47,12 @@ List of resources related to distributed systems and more... ;)
 * http://webee.technion.ac.il/~idish/Abstracts/jcss.html : E3PC, atomic commit if majority/quorum of nodes stays up
 * https://arxiv.org/pdf/1608.05866.pdf : AllConcur, Leaderless Atomic Broadcast (Marius Poke, Torsten Hoefler, Colin W. Glass)
 
+=== Byzantine Fault Tolerant Consensus
+
+* M. Castro, B Liskov: Practical Byzantine Fault Tolerance : http://pmg.csail.mit.edu/papers/osdi99.pdf
+
 === CRDT
+
 * https://hal.inria.fr/inria-00609399v1/document : [paper] Conflict-free Replicated Data Type (Shapiro et al., 2011)
 * https://hal.inria.fr/inria-00555588/document : [paper] A comprehensive study of Convergent and Commutative (Shapiro et al., 2011)
 * https://arxiv.org/pdf/0907.0929.pdf : [paper] CRDTs: Consistency without concurrency control (M. Letia et al., 2009)
@@ -91,12 +96,13 @@ https://jepsen.io/consistency ::
   The diagram on consistency models arranged by Jepsen, originally created by P. Bailis in his paper Highly Available Transactions: Virtues and Limitations
 http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
+https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman , https://github.com/ebuchman/thesis/blob/master/Buchman_Ethan_201606_MAsc.pdf ::
+  Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman, plus his thesis on Tendermint
 
 == Papers in consideration to be read
 
-* M. Castro, B Liskov: Practical Byzantine Fault Tolerance : http://pmg.csail.mit.edu/papers/osdi99.pdf
-* L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM : https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
 * Mike Burrows, Google: The Chubby lock service for loosely-coupled distributed systems : http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf
+* L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM : https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
 * Lamport, Distributed Snapshots: Determining Global States of Distributed Systems : http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
 * Tendermit : https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x
 * Jepsen report on Tendermint : https://jepsen.io/analyses/tendermint-0-10-2
