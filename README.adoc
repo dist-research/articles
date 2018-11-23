@@ -96,6 +96,8 @@ https://jepsen.io/consistency ::
   The diagram on consistency models arranged by Jepsen, originally created by P. Bailis in his paper Highly Available Transactions: Virtues and Limitations
 http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
+https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
+  A podcast as a brief introduction of TLA+
 https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman , https://github.com/ebuchman/thesis/blob/master/Buchman_Ethan_201606_MAsc.pdf ::
   Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman, plus his thesis on Tendermint
 
