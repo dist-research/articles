@@ -41,6 +41,7 @@ List of resources related to distributed systems and more... ;)
 * http://hh360.user.srcf.net/blog/2016/08/majority-agreement-is-not-necessary : majority agreement isn’t required by Paxos, blogpost by Heidi Howard
 * http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf :  Paxos made moderately complex, R.Van Renesse, D. Altinbuken
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
+* http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf: Mike Burrows, Google: The Chubby lock service for loosely-coupled distributed systems (locks system based on Paxos)
 
 === Atomic Broadcast/Commit Protocol
 
@@ -103,7 +104,6 @@ https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buc
 
 == Papers in consideration to be read
 
-* Mike Burrows, Google: The Chubby lock service for loosely-coupled distributed systems : http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf
 * L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM : https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
 * Lamport, Distributed Snapshots: Determining Global States of Distributed Systems : http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
 * Tendermit : https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x
