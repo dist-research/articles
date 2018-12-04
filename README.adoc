@@ -106,6 +106,7 @@ https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buc
 
 * L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM : https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
 * Lamport, Distributed Snapshots: Determining Global States of Distributed Systems : http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
-* Tendermit : https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x
+* Tendermint : https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x
+* Tendermint consensus algorithm : https://arxiv.org/abs/1807.04938 (updated version can be eventually found on https://github.com/tendermint/spec/releases) 
 * Jepsen report on Tendermint : https://jepsen.io/analyses/tendermint-0-10-2
 
