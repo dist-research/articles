@@ -59,7 +59,7 @@ List of resources related to distributed systems and more... ;)
 * https://github.com/ebuchman/thesis/blob/master/Buchman_Ethan_201606_MAsc.pdf : PhD on Tendermint from Ethan Buchman
 * https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x : Tendermint
 * https://jepsen.io/analyses/tendermint-0-10-2 : Jepsen report on Tendermint
-* https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman :  Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman, plus his thesis on Tendermint
+* https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman :  Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman
 
 === CRDT
 
