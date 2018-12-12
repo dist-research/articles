@@ -32,7 +32,7 @@ List of resources related to distributed systems and more... ;)
 * https://github.com/bitcoinbook/bitcoinbook : Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 * Kafemlejnek videocast on blockchain (https://kafemlejnek.tv/dil-36-uvod-do-technologie-blockchain/[part1], https://kafemlejnek.tv/dil-37-blockchain-mimo-kryptomeny/[part2]) (Lukáš Kolísko, _CZ only_)
 
-=== Paxos (consensus protocols)
+=== Paxos
 
 * https://github.com/dgryski/awesome-consensus : nice summary of paxos articles
 * http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf : Paxos made simple, Lamport
@@ -50,7 +50,16 @@ List of resources related to distributed systems and more... ;)
 
 === Byzantine Fault Tolerant Consensus
 
-* M. Castro, B Liskov: Practical Byzantine Fault Tolerance : http://pmg.csail.mit.edu/papers/osdi99.pdf
+* http://pmg.csail.mit.edu/papers/osdi99.pdf : M. Castro, B Liskov: Practical Byzantine Fault Tolerance
+* https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf : L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM
+
+=== Tendermint
+
+* https://arxiv.org/abs/1807.04938 (updated version can be eventually found on https://github.com/tendermint/spec/releases) : The latest gossip on BFT consensus  - Tendermint consensus algorithm
+* https://github.com/ebuchman/thesis/blob/master/Buchman_Ethan_201606_MAsc.pdf : PhD on Tendermint from Ethan Buchman
+* https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x : Tendermint
+* https://jepsen.io/analyses/tendermint-0-10-2 : Jepsen report on Tendermint
+* https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman :  Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman, plus his thesis on Tendermint
 
 === CRDT
 
@@ -99,15 +108,9 @@ http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
 https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
   A podcast as a brief introduction of TLA+
-https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman , https://github.com/ebuchman/thesis/blob/master/Buchman_Ethan_201606_MAsc.pdf ::
-  Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman, plus his thesis on Tendermint
 
 == Papers in consideration to be read
 
-* L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM : https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf
 * Lamport, Distributed Snapshots: Determining Global States of Distributed Systems : http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
-* Tendermint : https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x
-* Tendermint consensus algorithm : https://arxiv.org/abs/1807.04938 (updated version can be eventually found on https://github.com/tendermint/spec/releases) 
-* Jepsen report on Tendermint : https://jepsen.io/analyses/tendermint-0-10-2
 * Corda whitepaper: https://www.corda.net/content/corda-platform-whitepaper.pdf
 
