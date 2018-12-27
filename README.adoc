@@ -113,4 +113,5 @@ https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
 
 * Lamport, Distributed Snapshots: Determining Global States of Distributed Systems : http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
 * Corda whitepaper: https://www.corda.net/content/corda-platform-whitepaper.pdf
+* The Proof-of-Cooperation Blockchain/FairCoin: https://fair-coin.org/sites/default/files/FairCoin2_whitepaper_V1.2.pdf
 
