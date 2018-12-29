@@ -116,3 +116,4 @@ https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
 * The Proof-of-Cooperation Blockchain/FairCoin: https://fair-coin.org/sites/default/files/FairCoin2_whitepaper_V1.2.pdf
 * Algorand: Scaling Byzantine Agreements for Cryptocurrencies: https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf
 * Fast Byzantine Consensus: www.cs.cornell.edu/lorenzo/papers/Martin06Fast.pdf
+* The tangle (IOTA whitepaper): https://iota.org/IOTA_Whitepaper.pdf
