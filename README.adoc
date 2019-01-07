@@ -108,6 +108,8 @@ http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
 https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
   A podcast as a brief introduction of TLA+
+https://player.fm/series/hidden-forces/hedera-hashgraph-public-ledger-and-governance-framework-my-conversation-with-leemon-baird::
+  A podcast with Leemon Baird about Hedera Hashgraph and what its difference to bitcoin blockchain
 
 == Papers in consideration to be read
 
