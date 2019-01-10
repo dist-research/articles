@@ -22,13 +22,13 @@ List of resources related to distributed systems and more... ;)
 * https://hal.inria.fr/file/index/docid/555588/filename/techreport.pdf : A comprehensive study of Convergent and Commutative Replicated Data Types
 * http://www.cs.princeton.edu/~wlloyd/papers/challenges-hotos15.pdf : Challenges to Adopting Stronger Consistency at Scale
 
-=== Blockchain
+=== Bitcoin and Blockchain
 
 * https://bitcoin.org/bitcoin.pdf : Bitcoin: A Peer-to-Peer Electronic Cash System
 * https://www.stellar.org/papers/stellar-consensus-protocol.pdf : The Stellar Consensus Protocol: A Federated Model for Internet-level Consensus
 * http://www.se-radio.net/2017/07/se-radio-episode-297-kieren-james-lubin-on-blockchain/ : SE-Radio Episode 297: Kieren James-Lubin on Blockchain
 * https://eng.paxos.com/why-arent-distributed-systems-engineers-working-on-blockchain-technology : Why aren’t distributed systems engineers working on blockchain technology?
-* https://www.softwaredaily.com/post/5a968be840178500043e947a[Software daily: Bitcoin Transactions], https://www.softwaredaily.com/post/5aa2696a58c5130004d9aa87[Software daily: Proof of Stake], https://www.softwaredaily.com/post/5a9fc652c2b406000499072b[Software daily: Smart Contracts] : podcast series about bitcoin and blockchain, introductory but pretty deep
+* https://www.softwaredaily.com/post/5a968be840178500043e947a[Software daily: Bitcoin Transactions], https://www.softwaredaily.com/post/5aa2696a58c5130004d9aa87[Software daily: Proof of Stake], https://www.softwaredaily.com/post/5a9fc652c2b406000499072b[Software daily: Smart Contracts] : podcast series about Bitcoin and Blockchain, introductory but pretty deep
 * https://github.com/bitcoinbook/bitcoinbook : Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 * Kafemlejnek videocast on blockchain (https://kafemlejnek.tv/dil-36-uvod-do-technologie-blockchain/[part1], https://kafemlejnek.tv/dil-37-blockchain-mimo-kryptomeny/[part2]) (Lukáš Kolísko, _CZ only_)
 
@@ -48,16 +48,21 @@ List of resources related to distributed systems and more... ;)
 * http://webee.technion.ac.il/~idish/Abstracts/jcss.html : E3PC, atomic commit if majority/quorum of nodes stays up
 * https://arxiv.org/pdf/1608.05866.pdf : AllConcur, Leaderless Atomic Broadcast (Marius Poke, Torsten Hoefler, Colin W. Glass)
 
-=== Byzantine Fault Tolerant Consensus
+=== Practical Byzantine Fault Tolerant Consensus
 
 * http://pmg.csail.mit.edu/papers/osdi99.pdf : M. Castro, B Liskov: Practical Byzantine Fault Tolerance
+
+=== Swirlds/Hedera Hashgraph
+
 * https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf : L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM
+* https://player.fm/series/hidden-forces/hedera-hashgraph-public-ledger-and-governance-framework-my-conversation-with-leemon-baird: a podcast with Leemon Baird about Hedera Hashgraph and what its difference to bitcoin blockchain
+* https://www.youtube.com/watch?v=A467am0fw34&list=PLcaTa5RR9SuCQC71q8nqIOAsY8 : set of 5 youtube videos where Leemon Baird explains distributed ledger consensus algorithms
 
 === Tendermint
 
 * https://arxiv.org/abs/1807.04938 (updated version can be eventually found on https://github.com/tendermint/spec/releases) : The latest gossip on BFT consensus  - Tendermint consensus algorithm
 * https://github.com/ebuchman/thesis/blob/master/Buchman_Ethan_201606_MAsc.pdf : PhD on Tendermint from Ethan Buchman
-* https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x : Tendermint
+* https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x : Tendermint introduction 
 * https://jepsen.io/analyses/tendermint-0-10-2 : Jepsen report on Tendermint
 * https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman :  Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman
 
@@ -108,8 +113,6 @@ http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
 https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
   A podcast as a brief introduction of TLA+
-https://player.fm/series/hidden-forces/hedera-hashgraph-public-ledger-and-governance-framework-my-conversation-with-leemon-baird::
-  A podcast with Leemon Baird about Hedera Hashgraph and what its difference to bitcoin blockchain
 
 == Papers in consideration to be read
 
