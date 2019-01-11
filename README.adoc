@@ -122,3 +122,4 @@ https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
 * Algorand: Scaling Byzantine Agreements for Cryptocurrencies: https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf
 * Fast Byzantine Consensus: www.cs.cornell.edu/lorenzo/papers/Martin06Fast.pdf
 * The tangle (IOTA whitepaper): https://iota.org/IOTA_Whitepaper.pdf
+* Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies : https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
