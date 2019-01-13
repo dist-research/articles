@@ -123,3 +123,4 @@ https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
 * Fast Byzantine Consensus: www.cs.cornell.edu/lorenzo/papers/Martin06Fast.pdf
 * The tangle (IOTA whitepaper): https://iota.org/IOTA_Whitepaper.pdf
 * Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies : https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
+* DottedDB: Anti-Entropy without Merkle Trees, Deletes without Tombstones: https://haslab.uminho.pt/tome/files/dotteddb_srds.pdf (Dynamo-like key-value store)
