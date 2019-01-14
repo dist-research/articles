@@ -57,6 +57,7 @@ List of resources related to distributed systems and more... ;)
 * https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf : L. Baird: THE SWIRLDS HASHGRAPH CONSENSUS ALGORITHM
 * https://player.fm/series/hidden-forces/hedera-hashgraph-public-ledger-and-governance-framework-my-conversation-with-leemon-baird: a podcast with Leemon Baird about Hedera Hashgraph and what its difference to bitcoin blockchain
 * https://www.youtube.com/watch?v=A467am0fw34&list=PLcaTa5RR9SuCQC71q8nqIOAsY8 : set of 5 youtube videos where Leemon Baird explains distributed ledger consensus algorithms
+* https://youtu.be/ZodcT3GTsYI : Leemon Baird introduction to Byzantine Fault Tolerance, presentation on youtube 
 
 === Tendermint
 
