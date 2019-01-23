@@ -128,3 +128,4 @@ https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
 * Protocol for Asynchronous, Reliable, Secure and Efficient Consensus (PARSEC): https://docs.maidsafe.net/Whitepapers/pdf/PARSEC.pdf
 * Chain Replication for Supporting High Throughput and Availability: http://static.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf
 * FASTER: A Concurrent Key-Value Store with In-Place Updates: https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/
+* [Team Rocket: Snowflake to Avalanche](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjJ2tKZioTgAhUJr6QKHYsDBW8QFjABegQIBhAC&url=https%3A%2F%2Fipfs.io%2Fipfs%2FQmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV&usg=AOvVaw04r5PK8uxchto3eYeebxxr)
