@@ -66,6 +66,7 @@ List of resources related to distributed systems and more... ;)
 * https://tendermint.com/docs/introduction/introduction.html#tendermint-vs-x : Tendermint introduction 
 * https://jepsen.io/analyses/tendermint-0-10-2 : Jepsen report on Tendermint
 * https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman :  Podcast Software Engineering Daily - Consensus Systems and Tendermint with Ethan Buchman
+* https://medium.com/tendermint/a-to-z-of-blockchain-consensus-81e2406af5a3 :  What is the consensus protocol in blockchain systems, explaining the PoW and PoS is only defence mechanism for Sybil attack.
 
 === CRDT
 
@@ -114,8 +115,6 @@ http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
 https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
   A podcast as a brief introduction of TLA+
-https://medium.com/tendermint/a-to-z-of-blockchain-consensus-81e2406af5a3::
-  Article on what is the consensus protocol in blockchain systems. Explaining the PoW and PoS is only defence mechanism for Sybil attack.
 
 == Papers in consideration to be read
 
