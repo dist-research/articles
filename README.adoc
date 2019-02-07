@@ -125,9 +125,8 @@ https://medium.com/tendermint/a-to-z-of-blockchain-consensus-81e2406af5a3::
 * Algorand: Scaling Byzantine Agreements for Cryptocurrencies: https://people.csail.mit.edu/nickolai/papers/gilad-algorand-eprint.pdf
 * Fast Byzantine Consensus: www.cs.cornell.edu/lorenzo/papers/Martin06Fast.pdf
 * The tangle (IOTA whitepaper): https://iota.org/IOTA_Whitepaper.pdf
-* Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies : https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
 * DottedDB: Anti-Entropy without Merkle Trees, Deletes without Tombstones: https://haslab.uminho.pt/tome/files/dotteddb_srds.pdf (Dynamo-like key-value store)
 * Protocol for Asynchronous, Reliable, Secure and Efficient Consensus (PARSEC): https://docs.maidsafe.net/Whitepapers/pdf/PARSEC.pdf
 * Chain Replication for Supporting High Throughput and Availability: http://static.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf
 * FASTER: A Concurrent Key-Value Store with In-Place Updates: https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/
-* Team Rocket: Snowflake to Avalanche: https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
+* Team Rocket: Snowflake to Avalanche (A Novel Metastable Consensus Protocol Family for Cryptocurrencies): https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
