@@ -114,6 +114,8 @@ http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
 https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
   A podcast as a brief introduction of TLA+
+https://medium.com/tendermint/a-to-z-of-blockchain-consensus-81e2406af5a3::
+  Article on what is the consensus protocol in blockchain systems. Explaining the PoW and PoS is only defence mechanism for Sybil attack.
 
 == Papers in consideration to be read
 
