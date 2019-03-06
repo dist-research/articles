@@ -84,6 +84,7 @@ List of resources related to distributed systems and more... ;)
 * https://ptolemy.berkeley.edu/projects/truststc/pubs/713/History%20of%20the%20Virtual%20Synchrony%20Replication%20Model%202010.pdf : A History of the Virtual Synchrony Replication Model (2010)
 * https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.36.8617 : Extended Virtual Synchrony, Moser Amir , L. E. Moser , Y. Amir , P. M. Melliar-smith , D. A. Agarwal (2004)
 * https://www.cs.cornell.edu/home/rvr/sys/p123-birman.pdf : Exploiting Virtual Synchrony in distributed systems, Kenneth P. Birman, Thomas A. Joseph (1987)
+* https://www.cs.cornell.edu/projects/spinglass/public_pdfs/Strong%20and%20Weak.pdf : Strong and Weak Virtual Synchrony in Horus, Roy Friedman, Robbert van Renesse (1995)
 * https://dl.acm.org/citation.cfm?id=573005 : [book, almanac] Reliable Distributed Computing with the ISIS Toolkit, Kenneth P. Birman, Robbert Van Renesse (1993)
 * https://www.coursera.org/lecture/cloud-computing/2-5-virtual-synchrony-WCW9B : [video] Coursera Cloud Computing Concepts (2.5. Virtual Synchrony)
 
