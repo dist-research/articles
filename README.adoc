@@ -42,6 +42,7 @@ List of resources related to distributed systems and more... ;)
 * http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf :  Paxos made moderately complex, R.Van Renesse, D. Altinbuken
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
 * http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf: Mike Burrows, Google: The Chubby lock service for loosely-coupled distributed systems (locks system based on Paxos)
+* http://hh360.user.srcf.net/blog/2016/08/majority-agreement-is-not-necessary/, https://arxiv.org/pdf/1608.06696v1.pdf : Flexible Paxos: Quorum intersection revisited (Heidi Howard)
 
 === Atomic Broadcast/Commit Protocol
 
@@ -124,6 +125,14 @@ http://aka.ms/tla ::
   The TLA+ Video Course by L. Lamport
 https://softwareengineeringdaily.com/2018/11/09/tla-with-leslie-lamport::
   A podcast as a brief introduction of TLA+
+https://github.com/aphyr/distsys-class::
+  An outline to course of distributed systems by Kyle Kingsbury (Jepsen)
+https://www.youtube.com/watch?v=tRc0O9VgzB0::
+  Jepsen 9: A Fsyncing Feeling (Kyle Kingsbury), presentation from GOTO2018 (May 2018), from description: "property-based testing to those databases to verify their correctness claims"
+https://www.youtube.com/watch?v=ZGIAypUUwoQ, https://www.youtube.com/watch?v=EYJnWttrC9k::
+  Peter Bailis's presentations on distributed systems (Silence is Golden: Coordination-Avoiding Systems Design, 2015; "When "Worst" is Best, 2015)
+
+
 
 == Papers in consideration to be read
 
