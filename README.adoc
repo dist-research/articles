@@ -31,6 +31,7 @@ List of resources related to distributed systems and more... ;)
 * https://www.softwaredaily.com/post/5a968be840178500043e947a[Software daily: Bitcoin Transactions], https://www.softwaredaily.com/post/5aa2696a58c5130004d9aa87[Software daily: Proof of Stake], https://www.softwaredaily.com/post/5a9fc652c2b406000499072b[Software daily: Smart Contracts] : podcast series about Bitcoin and Blockchain, introductory but pretty deep
 * https://github.com/bitcoinbook/bitcoinbook : Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 * Kafemlejnek videocast on blockchain (https://kafemlejnek.tv/dil-36-uvod-do-technologie-blockchain/[part1], https://kafemlejnek.tv/dil-37-blockchain-mimo-kryptomeny/[part2]) (Lukáš Kolísko, _CZ only_)
+* https://www.youtube.com/watch?v=yMlRSm8Ncuk : Can't we just agree (presenation by Ondra Chaloupka and Vojta Juránek, DevConf 2019 :-)
 
 === Paxos
 
@@ -88,6 +89,7 @@ List of resources related to distributed systems and more... ;)
 * https://www.cs.cornell.edu/projects/spinglass/public_pdfs/Strong%20and%20Weak.pdf : Strong and Weak Virtual Synchrony in Horus, Roy Friedman, Robbert van Renesse (1995)
 * https://dl.acm.org/citation.cfm?id=573005 : [book, almanac] Reliable Distributed Computing with the ISIS Toolkit, Kenneth P. Birman, Robbert Van Renesse (1993)
 * https://www.coursera.org/lecture/cloud-computing/2-5-virtual-synchrony-WCW9B : [video] Coursera Cloud Computing Concepts (2.5. Virtual Synchrony)
+* https://www.researchgate.net/publication/2243659_Fast_Message_Ordering_and_Membership_Using_a_Logical_Token-Passing_Ring : Fast message ordering and membership using a logical token-passing ring, Y.Amir, L.E.Moser... (1993)
 
 
 == Disttributed system resources
