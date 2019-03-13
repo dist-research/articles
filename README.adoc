@@ -130,7 +130,7 @@ https://github.com/aphyr/distsys-class::
 https://www.youtube.com/watch?v=tRc0O9VgzB0::
   Jepsen 9: A Fsyncing Feeling (Kyle Kingsbury), presentation from GOTO2018 (May 2018), from description: "property-based testing to those databases to verify their correctness claims"
 https://www.youtube.com/watch?v=ZGIAypUUwoQ, https://www.youtube.com/watch?v=EYJnWttrC9k::
-  Peter Bailis's presentations on distributed systems (Silence is Golden: Coordination-Avoiding Systems Design, 2015; "When "Worst" is Best, 2015)
+  Peter Bailis's presentations on distributed systems (Silence is Golden: Coordination-Avoiding Systems Design, 2015 - about RAMP transactions; "When "Worst" is Best, 2015)
 
 
 
