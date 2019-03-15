@@ -90,7 +90,7 @@ List of resources related to distributed systems and more... ;)
 * https://dl.acm.org/citation.cfm?id=573005 : [book, almanac] Reliable Distributed Computing with the ISIS Toolkit, Kenneth P. Birman, Robbert Van Renesse (1993)
 * https://www.coursera.org/lecture/cloud-computing/2-5-virtual-synchrony-WCW9B : [video] Coursera Cloud Computing Concepts (2.5. Virtual Synchrony)
 * https://www.researchgate.net/publication/2243659_Fast_Message_Ordering_and_Membership_Using_a_Logical_Token-Passing_Ring : Fast message ordering and membership using a logical token-passing ring, Y.Amir, L.E.Moser... (1993)
-
+* https://github.com/corosync/corosync/wiki/Developers#reference-documentation : list of papers on the virtual synchrony from site of the Corosync project
 
 == Disttributed system resources
 
