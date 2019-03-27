@@ -135,6 +135,8 @@ https://www.youtube.com/watch?v=ZGIAypUUwoQ, https://www.youtube.com/watch?v=EYJ
   Peter Bailis's presentations on distributed systems (Silence is Golden: Coordination-Avoiding Systems Design, 2015 - about RAMP transactions; "When "Worst" is Best, 2015)
 http://book.mixu.net/distsys/single-page.html::
   Distributed systems for fun and profit, listing about distributed system theory. Great resource for getting started with the topic.
+https://softwareengineeringdaily.com/2019/03/21/faunadb-with-evan-weaver::
+  Software Enginering Daily podcast about FaunaDB, distributed database built on Calvin paper
 
 
 
