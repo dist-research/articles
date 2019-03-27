@@ -154,5 +154,5 @@ https://softwareengineeringdaily.com/2019/03/21/faunadb-with-evan-weaver::
 * FASTER: A Concurrent Key-Value Store with In-Place Updates: https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/
 * Team Rocket: Snowflake to Avalanche (A Novel Metastable Consensus Protocol Family for Cryptocurrencies): https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
 * SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol: www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf (implementation e.g. https://github.com/hashicorp/memberlist)
-* A Generalised Solution to Distributed Consensus: https://arxiv.org/pdf/1902.06776.pdf
+* A Generalised Solution to Distributed Consensus: https://arxiv.org/pdf/1902.06776.pdf (summary of the paper on Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
 * Calvin: Fast Distributed Transactions for Partitioned Database Systems: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf
