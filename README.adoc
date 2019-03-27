@@ -92,6 +92,12 @@ List of resources related to distributed systems and more... ;)
 * https://www.researchgate.net/publication/2243659_Fast_Message_Ordering_and_Membership_Using_a_Logical_Token-Passing_Ring : Fast message ordering and membership using a logical token-passing ring, Y.Amir, L.E.Moser... (1993)
 * https://github.com/corosync/corosync/wiki/Developers#reference-documentation : list of papers on the virtual synchrony from site of the Corosync project
 
+== SWIM membership protocol
+
+* http://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf : SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol, Abhinandan Das, Indranil Gupta, Ashish Motivala (2002)
+* https://github.com/hashicorp/memberlist : implementation of the SWIM by HashiCorp
+* https://gist.github.com/dehora/e022f4a5ad1310ba25f9d0ba695255b3 : gist with list of resources about SWIM 
+
 == Disttributed system resources
 
 https://www.youtube.com/watch?v=D5iCl12MuRw::
@@ -153,6 +159,5 @@ https://softwareengineeringdaily.com/2019/03/21/faunadb-with-evan-weaver::
 * Chain Replication for Supporting High Throughput and Availability: http://static.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf
 * FASTER: A Concurrent Key-Value Store with In-Place Updates: https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/
 * Team Rocket: Snowflake to Avalanche (A Novel Metastable Consensus Protocol Family for Cryptocurrencies): https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
-* SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol: www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf (implementation e.g. https://github.com/hashicorp/memberlist)
 * A Generalised Solution to Distributed Consensus: https://arxiv.org/pdf/1902.06776.pdf (summary of the paper on Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
 * Calvin: Fast Distributed Transactions for Partitioned Database Systems: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf
