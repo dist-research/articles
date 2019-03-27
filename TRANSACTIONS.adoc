@@ -1,0 +1,14 @@
+= Resources about transactions
+
+https://thenewstack.io/microsoft-orleans-brings-distributed-transactions-to-cloud::
+  Microsoft Orleans Brings Distributed Transactions to Cloud, article talking about actors base system by Microsoft that started to provide ACID guarantees
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/EldeebBernstein-TransactionalActors-MSR-TR-1.pdf::
+  Transactions for Distributed Actorsin the Cloud; Tamer Eldeeb, Philip A. Bernstein (2016)
+https://queue.acm.org/detail.cfm?id=3321612::
+  Online Event Processing - Achieving consistency where distributed transactions have failed; Martin Kleppmann, Alastair R. Beresford, and Boerge Svingen (2019)
+https://www.ververica.com/blog/serializable-acid-transactions-on-streaming-data::
+  Serializable ACID Transactions on Streaming Data (2018) [article and whitepaper]
+https://ieeexplore.ieee.org/document/666792::
+  Checked Transactions in an Asynchronous Message Passing Environment; S.J. Caughey, M.Little, S.K.Shrivastava (1998)
+http://www.vldb.org/pvldb/vol6/p1434-dey.pdf::
+  Scalable Transactions across Heterogeneous NoSQL Key-Value Data Stores; Akon Dey (2013)
