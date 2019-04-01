@@ -163,8 +163,8 @@ https://blog.yugabyte.com/google-spanner-vs-calvin-global-consistency-at-scale; 
 * Chain Replication for Supporting High Throughput and Availability: http://static.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf
 * FASTER: A Concurrent Key-Value Store with In-Place Updates: https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/
 * Team Rocket: Snowflake to Avalanche (A Novel Metastable Consensus Protocol Family for Cryptocurrencies): https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
-* A Generalised Solution to Distributed Consensus: https://arxiv.org/pdf/1902.06776.pdf (summary of the paper on Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
-* Calvin: Fast Distributed Transactions for Partitioned Database Systems: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf
+* A Generalised Solution to Distributed Consensus: https://arxiv.org/pdf/1902.06776.pdf (summary at Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
+* Calvin: Fast Distributed Transactions for Partitioned Database Systems: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf (summary at Morning Papers https://blog.acolyer.org/2019/03/29/calvin-fast-distributed-transactions-for-partitioned-database-systems/)
 * Aleph: A Leaderless, Asynchronous, Byzantine Fault Tolerant Consensus Protocol: https://arxiv.org/abs/1810.05256
 * Vive La Diff ́erence:Paxos vs. Viewstamped Replication vs. Zab: https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf
  
