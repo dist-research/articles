@@ -147,6 +147,8 @@ https://vadosware.io/post/paxosmon-gotta-concensus-them-all::
   Blog by Vadosware to summarized Paxos family of protocols
 https://blog.yugabyte.com/google-spanner-vs-calvin-global-consistency-at-scale; http://dbmsmusings.blogspot.com/2017/04/distributed-consistency-at-scale.html; http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html::
  Blog posts on Calvin vs. Spanner - YugaByte vs. FaunaDB
+https://hazelcast.com/long-live-distributed-locks/::
+ Blog post on Hazelcast implementation of the distributed locks
 
 
 
