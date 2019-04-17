@@ -169,4 +169,4 @@ https://hazelcast.com/long-live-distributed-locks/::
 * Calvin: Fast Distributed Transactions for Partitioned Database Systems: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf (summary at Morning Papers https://blog.acolyer.org/2019/03/29/calvin-fast-distributed-transactions-for-partitioned-database-systems/)
 * Aleph: A Leaderless, Asynchronous, Byzantine Fault Tolerant Consensus Protocol: https://arxiv.org/abs/1810.05256
 * Vive La Diff ́erence:Paxos vs. Viewstamped Replication vs. Zab: https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf
-* E. Gafni, L. Lamport: Disk Paxos, https://lamport.azurewebsites.net/pubs/disk-paxos.pdf
+* E. Gafni, L. Lamport: Disk Paxos, https://lamport.azurewebsites.net/pubs/disk-paxos.pdf (https://groups.csail.mit.edu/tds/papers/Chockler/podc-02.pdf : Active Disk Paxos; Gregory Chockler, Dahlia Malkhli)
