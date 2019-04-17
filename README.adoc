@@ -44,6 +44,8 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/abs/1802.07000 : CASPaxos, Rystsov
 * http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf: Mike Burrows, Google: The Chubby lock service for loosely-coupled distributed systems (locks system based on Paxos)
 * http://hh360.user.srcf.net/blog/2016/08/majority-agreement-is-not-necessary/, https://arxiv.org/pdf/1608.06696v1.pdf : Flexible Paxos: Quorum intersection revisited (Heidi Howard)
+* https://arxiv.org/pdf/1902.06776.pdf : A Generalised Solution to Distributed Consensus, Heidi Howard (summary at Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
+* https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf : Distributed consensus revised, Heidi Howard PhD
 
 === Atomic Broadcast/Commit Protocol
 
@@ -151,7 +153,6 @@ https://hazelcast.com/long-live-distributed-locks/::
  Blog post on Hazelcast implementation of the distributed locks
 
 
-
 == Papers in consideration to be read
 
 * Lamport, Distributed Snapshots: Determining Global States of Distributed Systems : http://research.microsoft.com/en-us/um/people/lamport/pubs/chandy.pdf
@@ -165,7 +166,6 @@ https://hazelcast.com/long-live-distributed-locks/::
 * Chain Replication for Supporting High Throughput and Availability: http://static.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf
 * FASTER: A Concurrent Key-Value Store with In-Place Updates: https://www.microsoft.com/en-us/research/publication/faster-concurrent-key-value-store-place-updates/
 * Team Rocket: Snowflake to Avalanche (A Novel Metastable Consensus Protocol Family for Cryptocurrencies): https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
-* A Generalised Solution to Distributed Consensus: https://arxiv.org/pdf/1902.06776.pdf (summary at Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
 * Calvin: Fast Distributed Transactions for Partitioned Database Systems: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf (summary at Morning Papers https://blog.acolyer.org/2019/03/29/calvin-fast-distributed-transactions-for-partitioned-database-systems/)
 * Aleph: A Leaderless, Asynchronous, Byzantine Fault Tolerant Consensus Protocol: https://arxiv.org/abs/1810.05256
 * Vive La Diff ́erence:Paxos vs. Viewstamped Replication vs. Zab: https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf
