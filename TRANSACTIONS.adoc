@@ -12,3 +12,5 @@ https://ieeexplore.ieee.org/document/666792::
   Checked Transactions in an Asynchronous Message Passing Environment; S.J. Caughey, M.Little, S.K.Shrivastava (1998)
 http://www.vldb.org/pvldb/vol6/p1434-dey.pdf::
   Scalable Transactions across Heterogeneous NoSQL Key-Value Data Stores; Akon Dey (2013)
+https://dzone.com/articles/microservices-and-distributed-transactions::
+  Microservices and Distributed Transactions (This post explains how LIXA and XTA enable the development of polyglot distributed transactional systems.), dzone.com (2019)
