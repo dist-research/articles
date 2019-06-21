@@ -48,6 +48,7 @@ List of resources related to distributed systems and more... ;)
 * http://hh360.user.srcf.net/blog/2016/08/majority-agreement-is-not-necessary/, https://arxiv.org/pdf/1608.06696v1.pdf : Flexible Paxos: Quorum intersection revisited (Heidi Howard)
 * https://arxiv.org/pdf/1902.06776.pdf : A Generalised Solution to Distributed Consensus, Heidi Howard (summary at Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
 * https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf : Distributed consensus revised, Heidi Howard PhD
+* https://github.com/heidi-ann/distributed-consensus-reading-list : a list of papers in the field of distributed consensus, Heidi Howard
 
 === Atomic Broadcast/Commit Protocol
 
