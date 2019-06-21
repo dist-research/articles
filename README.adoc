@@ -35,6 +35,16 @@ List of resources related to distributed systems and more... ;)
 * https://www.youtube.com/watch?v=yMlRSm8Ncuk : Can't we just agree (presenation by Ondra Chaloupka and Vojta Juránek, DevConf 2019 :-)
 * https://arxiv.org/abs/1711.03936 : Consensus in the Age of Blockchains (Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn, George Danezis)
 
+==== Private blockchains
+
+* https://medium.com/blockchain-review/private-blockchain-or-database-whats-the-difference-523e7d42edc : Private Blockchain or Database? - How to Determine the Difference (blogpost)
+* https://medium.com/coinmonks/public-vs-private-blockchain-in-a-nutshell-c9fe284fa39f : Public Vs Private Blockchain In A Nutshell (blogpost)
+* https://medium.com/@mycoralhealth/start-your-own-hyperledger-blockchain-the-easy-way-5758cb4ed2d1 : Start your own Hyperledger blockchain hte Easy Way! (blogpost)
+* https://hyperledger-fabric.readthedocs.io/en/release-1.1/arch-deep-dive.html : Hyberledger Fabric - Architecture (documentation)
+* https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf : Hyperledger Whitepaper Introduction (whitepaper)
+* https://github.com/jpmorganchase/quorum : Quorum from J. P. Morgan (github repository)
+
+
 === Paxos
 
 * https://github.com/dgryski/awesome-consensus : nice summary of paxos articles
