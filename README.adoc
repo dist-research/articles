@@ -34,6 +34,7 @@ List of resources related to distributed systems and more... ;)
 * Kafemlejnek videocast on blockchain (https://kafemlejnek.tv/dil-36-uvod-do-technologie-blockchain/[part1], https://kafemlejnek.tv/dil-37-blockchain-mimo-kryptomeny/[part2]) (Lukáš Kolísko, _CZ only_)
 * https://www.youtube.com/watch?v=yMlRSm8Ncuk : Can't we just agree (presenation by Ondra Chaloupka and Vojta Juránek, DevConf 2019 :-)
 * https://arxiv.org/abs/1711.03936 : Consensus in the Age of Blockchains (Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn, George Danezis)
+* https://arxiv.org/pdf/1803.05069 : HotStuff: BFT Consensus in the Lens of Blockchain (Maofan Yin, Dahlia Malkhi, Michael K. Reiter, Guy Golan Gueta, Ittai Abraham)
 
 ==== Private blockchains
 
