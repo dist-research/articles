@@ -184,3 +184,4 @@ https://hazelcast.com/long-live-distributed-locks/::
 * Aleph: A Leaderless, Asynchronous, Byzantine Fault Tolerant Consensus Protocol: https://arxiv.org/abs/1810.05256
 * Vive La Diff ́erence:Paxos vs. Viewstamped Replication vs. Zab: https://www.cs.cornell.edu/fbs/publications/viveLaDifference.pdf
 * E. Gafni, L. Lamport: Disk Paxos, https://lamport.azurewebsites.net/pubs/disk-paxos.pdf (https://groups.csail.mit.edu/tds/papers/Chockler/podc-02.pdf : Active Disk Paxos; Gregory Chockler, Dahlia Malkhli)
+* G. Choclker, D. Malkhi: Light-Weight Leases for Storage-Centric Coordination (https://groups.csail.mit.edu/tds/papers/Chockler/TR934.ps)
