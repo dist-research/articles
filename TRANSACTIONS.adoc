@@ -14,3 +14,5 @@ http://www.vldb.org/pvldb/vol6/p1434-dey.pdf::
   Scalable Transactions across Heterogeneous NoSQL Key-Value Data Stores; Akon Dey (2013)
 https://dzone.com/articles/microservices-and-distributed-transactions::
   Microservices and Distributed Transactions (This post explains how LIXA and XTA enable the development of polyglot distributed transactional systems.), dzone.com (2019)
+https://www.confluent.io/blog/transactional-systems-with-apache-kafka::
+  Building Transactional Systems Using Apache Kafka, blogpost (2019)

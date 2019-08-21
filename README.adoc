@@ -165,8 +165,10 @@ https://blog.yugabyte.com/google-spanner-vs-calvin-global-consistency-at-scale; 
  Blog posts on Calvin vs. Spanner - YugaByte vs. FaunaDB
 https://hazelcast.com/long-live-distributed-locks/::
  Blog post on Hazelcast implementation of the distributed locks
-https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus/::
+https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consensus::
  Podcast with Heidi Howard on basics of distributed consensus
+https://www.youtube.com/watch?time_continue=8628&v=2XeBphGXcdU::
+  Hydra 2019 free online broadcast (youtube stream with several presentations from the Hydra - distributed computing conference)
 
 
 == Papers in consideration to be read
