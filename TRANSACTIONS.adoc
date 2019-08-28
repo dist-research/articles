@@ -16,3 +16,5 @@ https://dzone.com/articles/microservices-and-distributed-transactions::
   Microservices and Distributed Transactions (This post explains how LIXA and XTA enable the development of polyglot distributed transactional systems.), dzone.com (2019)
 https://www.confluent.io/blog/transactional-systems-with-apache-kafka::
   Building Transactional Systems Using Apache Kafka, blogpost (2019)
+https://hydraconf.com/2019/talks/5e3yibth8vha0jbyoywpm6/::
+  Slides from presentation at HydraConf 2019 from Denis Rystsov with name "The cost of distributed transactions between arbitrary databases"
