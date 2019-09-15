@@ -169,6 +169,10 @@ https://www.se-radio.net/2019/08/episode-377-heidi-howard-on-distributed-consens
  Podcast with Heidi Howard on basics of distributed consensus
 https://www.youtube.com/watch?time_continue=8628&v=2XeBphGXcdU::
   Hydra 2019 free online broadcast (youtube stream with several presentations from the Hydra - distributed computing conference)
+https://www.youtube.com/watch?v=7w4KC6i9Yac::
+  Correctness proofs of distributed systems with Isabelle, by Martin Kleppmann, Strange Loop conference (September 2019)
+https://softwareengineeringdaily.com/2019/09/10/google-spanner-with-deepti-srivastava/::
+  Google Spanner with Deepti Srivastava, podcast Software Engineering Daily (September 2019)
 
 
 == Papers in consideration to be read
