@@ -18,3 +18,5 @@ https://www.confluent.io/blog/transactional-systems-with-apache-kafka::
   Building Transactional Systems Using Apache Kafka, blogpost (2019)
 https://hydraconf.com/2019/talks/5e3yibth8vha0jbyoywpm6/::
   Slides from presentation at HydraConf 2019 from Denis Rystsov with name "The cost of distributed transactions between arbitrary databases"
+https://blog.acolyer.org/2019/09/04/slog/::
+  Summary of paper "SLOG: serializable, low-latency, geo-replicated transactions Ren et al., VLDB’19"
