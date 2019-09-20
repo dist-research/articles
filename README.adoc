@@ -62,6 +62,7 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/pdf/1902.06776.pdf : A Generalised Solution to Distributed Consensus, Heidi Howard (summary at Morning Papers https://blog.acolyer.org/2019/03/08/a-generalised-solution-to-distributed-consensus/)
 * https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf : Distributed consensus revised, Heidi Howard PhD
 * https://github.com/heidi-ann/distributed-consensus-reading-list : a list of papers in the field of distributed consensus, Heidi Howard
+* https://www.youtube.com/watch?v=Pqc6X3sj6q8 : Distributed Consensus Revised by Heidi Howard, presentation at youtube for Paper we love (September 2019)
 
 === Atomic Broadcast/Commit Protocol
 
@@ -173,6 +174,8 @@ https://www.youtube.com/watch?time_continue=8628&v=2XeBphGXcdU::
   Hydra 2019 free online broadcast (youtube stream with several presentations from the Hydra - distributed computing conference)
 https://www.youtube.com/watch?v=7w4KC6i9Yac::
   Correctness proofs of distributed systems with Isabelle, by Martin Kleppmann, Strange Loop conference (September 2019)
+https://blog.acolyer.org/2019/09/20/even-more-amazing-papers-at-vldb/::
+  Even more amazing papers at VLDB 2019, list of interesting papers from VLDB 2019 at "The Morgning Papers"
 
 
 == Papers in consideration to be read
