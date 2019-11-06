@@ -37,6 +37,7 @@ List of resources related to distributed systems and more... ;)
 * https://arxiv.org/abs/1711.03936 : Consensus in the Age of Blockchains (Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn, George Danezis)
 * https://arxiv.org/pdf/1803.05069 : HotStuff: BFT Consensus in the Lens of Blockchain (Maofan Yin, Dahlia Malkhi, Michael K. Reiter, Guy Golan Gueta, Ittai Abraham)
 * https://softwareengineeringdaily.com/2019/08/16/bitcoin-ecosystem-with-andreas-antonopoulos : Software Engineering Daily podcast - Bitcoin Ecosystem with Andreas M. Antonopoul
+* https://arxiv.org/pdf/1805.02707.pdf : A Survey on Consensus Mechanisms and Mining Strategy Management in Blockchain Networks (Wenbo Wang, Dinh Thai Hoang, ..., October 2019)
 
 ==== Private blockchains
 
