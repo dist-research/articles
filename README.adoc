@@ -198,3 +198,4 @@ https://blog.acolyer.org/2019/09/20/even-more-amazing-papers-at-vldb/::
 * E. Gafni, L. Lamport: Disk Paxos, https://lamport.azurewebsites.net/pubs/disk-paxos.pdf (https://groups.csail.mit.edu/tds/papers/Chockler/podc-02.pdf : Active Disk Paxos; Gregory Chockler, Dahlia Malkhli)
 * G. Choclker, D. Malkhi: Light-Weight Leases for Storage-Centric Coordination (https://groups.csail.mit.edu/tds/papers/Chockler/TR934.ps)
 * R.Kotla, L.Alvisi, M.Dahlin, A. Clement, E. Wong: Zyzzyva: Speculative Byzantine Fault Tolerance (http://www.cs.cornell.edu/lorenzo/papers/kotla07Zyzzyva.pdf)
+* G.Kaki, S.Priya: Mergeable Replicated Data Types (http://kcsrk.info/papers/oopsla19-mrdt.pdf)
