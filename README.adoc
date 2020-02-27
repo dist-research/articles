@@ -12,7 +12,8 @@ List of resources related to distributed systems and more... ;)
 
 === Raft
 
-* https://raft.github.io/raft.pdf : In Search of an Understandable Consensus Algorithm
+* https://raft.github.io/raft.pdf : In Search of an Understandable Consensus Algorithm (Diego Ongaro, J. Ousterhout, 2014)
+* https://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf : Raft Refloated : Do we have Consensus? (Heidi Howard, M. Schwarzkopf, A. Madhavapeddy, J. Crowcroft, 2015)
 
 === Transaction isolation (ACID vs. CAP)
 
@@ -66,6 +67,10 @@ List of resources related to distributed systems and more... ;)
 * https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf : Distributed consensus revised, Heidi Howard PhD
 * https://github.com/heidi-ann/distributed-consensus-reading-list : a list of papers in the field of distributed consensus, Heidi Howard
 * https://www.youtube.com/watch?v=Pqc6X3sj6q8 : Distributed Consensus Revised by Heidi Howard, presentation at youtube for Paper we love (September 2019)
+
+=== Chandy-Lamport Snapshotting
+
+* https://lamport.azurewebsites.net/pubs/chandy.pdf : Distributed Snapshots: Determining Global States of Distributed Systems (K.M. Chandy, L. Lamport, 1985)
 
 === Atomic Broadcast/Commit Protocol
 
