@@ -71,6 +71,7 @@ List of resources related to distributed systems and more... ;)
 === Chandy-Lamport Snapshotting
 
 * https://lamport.azurewebsites.net/pubs/chandy.pdf : Distributed Snapshots: Determining Global States of Distributed Systems (K.M. Chandy, L. Lamport, 1985)
+*  https://www.youtube.com/watch?v=z5XspIKOI4I : Presentation about the implementation in Hazelcast (Viliam Durina, 04-2020)
 
 === Atomic Broadcast/Commit Protocol
 
