@@ -185,6 +185,8 @@ https://www.youtube.com/watch?v=7w4KC6i9Yac::
   Correctness proofs of distributed systems with Isabelle, by Martin Kleppmann, Strange Loop conference (September 2019)
 https://blog.acolyer.org/2019/09/20/even-more-amazing-papers-at-vldb/::
   Even more amazing papers at VLDB 2019, list of interesting papers from VLDB 2019 at "The Morgning Papers"
+http://www.cse.buffalo.edu/~demirbas/CSE586/book.pdf::
+  Introduction to Distributed Systems, Paul Sivilotti (ebook, spring 2017)
 
 
 == Papers in consideration to be read
