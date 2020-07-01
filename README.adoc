@@ -67,6 +67,7 @@ List of resources related to distributed systems and more... ;)
 * https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf : Distributed consensus revised, Heidi Howard PhD
 * https://github.com/heidi-ann/distributed-consensus-reading-list : a list of papers in the field of distributed consensus, Heidi Howard
 * https://www.youtube.com/watch?v=Pqc6X3sj6q8 : Distributed Consensus Revised by Heidi Howard, presentation at youtube for Paper we love (September 2019)
+* http://rystsov.info/2020/06/27/pacified-consensus.html : Pacified consensus: how to retrofit leaderlessness into a Paxos or Raft based protocol(blogpost, Rystsov, June 2020)
 
 === Chandy-Lamport Snapshotting
 
@@ -187,6 +188,11 @@ https://blog.acolyer.org/2019/09/20/even-more-amazing-papers-at-vldb/::
   Even more amazing papers at VLDB 2019, list of interesting papers from VLDB 2019 at "The Morgning Papers"
 http://www.cse.buffalo.edu/~demirbas/CSE586/book.pdf::
   Introduction to Distributed Systems, Paul Sivilotti (ebook, spring 2017)
+https://www.se-radio.net/2020/06/episode-413-spencer-kimball-on-cockroachdb::
+  [podcast] SE-Radio Episode 413: Spencer Kimball on CockroachDB (June 2020)
+https://softwareengineeringdaily.com/2020/05/28/distributed-systems-research-with-peter-alvaro/::
+  [podcast] SE Daily: Distributed Systems Research with Peter Alvaro (May 2020)
+
 
 
 == Papers in consideration to be read
