@@ -68,6 +68,7 @@ List of resources related to distributed systems and more... ;)
 * https://github.com/heidi-ann/distributed-consensus-reading-list : a list of papers in the field of distributed consensus, Heidi Howard
 * https://www.youtube.com/watch?v=Pqc6X3sj6q8 : Distributed Consensus Revised by Heidi Howard, presentation at youtube for Paper we love (September 2019)
 * http://rystsov.info/2020/06/27/pacified-consensus.html : Pacified consensus: how to retrofit leaderlessness into a Paxos or Raft based protocol(blogpost, Rystsov, June 2020)
+* https://mwhittaker.github.io/publications/matchmaker_paxos.pdf : Matchmaker Paxos: A Reconfigurable Consensus Protocol (paper, Michael Whittaker, N. Giridharan, A. Szekeres, J.M. Hellerstein, Heidi Howard, F. Nawab, I. Stoica, July 2020)
 
 === Chandy-Lamport Snapshotting
 
