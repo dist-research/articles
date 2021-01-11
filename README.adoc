@@ -216,3 +216,4 @@ https://softwareengineeringdaily.com/2020/05/28/distributed-systems-research-wit
 * G. Choclker, D. Malkhi: Light-Weight Leases for Storage-Centric Coordination (https://groups.csail.mit.edu/tds/papers/Chockler/TR934.ps)
 * R.Kotla, L.Alvisi, M.Dahlin, A. Clement, E. Wong: Zyzzyva: Speculative Byzantine Fault Tolerance (http://www.cs.cornell.edu/lorenzo/papers/kotla07Zyzzyva.pdf)
 * G.Kaki, S.Priya: Mergeable Replicated Data Types (http://kcsrk.info/papers/oopsla19-mrdt.pdf, the morning paper - https://blog.acolyer.org/2019/11/25/mergeable-replicated-data-types-part-i/)
+* M. Whittaker et al.: Scaling Replicated State Machines with Compartmentalization (https://mwhittaker.github.io/publications/compartmentalized_paxos.pdf)
